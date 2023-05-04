@@ -1,6 +1,6 @@
 # MIPs (MARS) Turn-Based JRPG Game
 Created by: Corey Carter
-CMPEN 351 (Penn State)
+for CMPEN 351 (Penn State)
 
 ![Gameplay Heroes turn](./readme_images/image-1.png)
 
@@ -16,8 +16,8 @@ attack. The game will end with either side wins the battle by making their oppon
 HP zero.
 
 ## MARs Configuration:
-IMPORTANT: Use the Mars JAR located in the folder provided, otherwise the image
-loading won’t work due to file paths being based on the JARs location.
+### IMPORTANT: 
+Use the Mars JAR located in the folder provided, otherwise the image loading won’t work due to file paths being based on the JARs location.
 
 ### Bitmap configurations are:
 * Unit width: 1
