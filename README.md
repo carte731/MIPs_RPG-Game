@@ -4,6 +4,12 @@ CMPEN 351 (Penn State)
 
 A Turn-based RPG game made in MIPs for MARs
 
+![Gameplay Heroes turn](./readme_images/image-1.png)
+
+![THe hero attacks](./readme_images/image-2.png)
+
+![menu/MARs interface](./readme_images/image.png)
+
 Description:
 I made a first-person RPG-game in the style of old Dragon Quest games of the 90’s with the main
 character battling an enemy Orc. The player (hero) must fight an enemy orc and battle it
@@ -42,3 +48,5 @@ The player gets one command per turn and there will be a time limit per turn for
 user.
 Once the enemies HP goes to zero, the user wins – if the user’s HP goes to zero, then
 the user loses.
+
+
